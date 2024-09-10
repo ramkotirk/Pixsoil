@@ -27,9 +27,5 @@ The Future researcher(s), the process and outcome of this research will serve as
 
 For more information about the researchers, visit The [Researchers page.](https://pixsoil.ml/researchers)
 
-- Eric Echemane
-- Mark Alcel Bautista
-- Jamel Varela
-- Our Research Adviser
 - Our Research Panels
-- The University of Muntinlupa
+- Vel Tech University
